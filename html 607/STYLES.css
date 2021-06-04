@@ -1,0 +1,26 @@
+.navbar .navbar-brand{ 
+ font-size: 32px;
+ }
+ .navbar a{ 
+   color:black !important;
+   }
+   .seccion-1{ 
+     background-image: url(img/fondo.jpg) !important;
+    }
+  .titulo-principal{
+    color: red;
+  }
+  .parrafo-principal{
+    color: whitesmoke;
+  }
+  footer{
+    background: black;
+    padding: 60px;
+  }
+  footer span{
+    color: white;
+    
+  }
+    .elaborado{
+      display: block;
+    }
